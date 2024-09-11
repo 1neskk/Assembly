@@ -17,7 +17,7 @@ This program prints "Hello, World!" to the console.
 
 This program divides one number (500) by half through bitwise operations. Also, it converts the result to a string and prints it to the console.
 
-## How to run
+## How to run (Unix-like systems)
 
 Only NASM and LD (GNU Binutils) are required to run the programs. Tested on Arch Linux with WSL 1 (Windows Subsystem for Linux) kernel.
 
